@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrant8871&label=Profile%20views&color=0e75b6&style=flat" alt="vikrant8871" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, NLP, HTML, CSS**
+- 🌱 I’m currently learning **Deep Learning, NLP, LLM**
 
-- 💬 Ask me about **Python, SQL Sever, R, Machine Learning, Deep Learning, Statistics, Probability, Power Bi, Tableau**
+- 💬 Ask me about **Python, SQL Sever, R, Machine Learning, Deep Learning, Statistics, Probability, Power Bi, Tableau, HTML, CSS, Git**
 
 - 📫 How to reach me **vikrant.singh8871@gmail.com**
 
